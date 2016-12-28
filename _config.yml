@@ -1,1 +1,26 @@
-theme: jekyll-theme-slate
+gems: [jekyll-paginate]
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               
+tagline:             'Leowoo Blog'
+description:         'Hello'
+url:                 http://leowoo.me
+baseurl:             ''
+paginate:            5
+paginate_path: "page:num"
+
+
+# About/contact
+author:
+  name:              Liyuan Wu
+  url:               
+  email:             wlywylm@gmail.com
+
+# Custom vars
+version:             1.0.0
