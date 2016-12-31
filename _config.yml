@@ -11,7 +11,7 @@ title:               'Leowoo Blog'
 tagline:             
 description:         'What How When'
 url:                 http://leowoo.me
-baseurl:             'leowoo.me'
+baseurl:             'http://leowoo.me'
 paginate:            5
 paginate_path: "page:num"
 
