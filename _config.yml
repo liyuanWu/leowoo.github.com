@@ -11,7 +11,7 @@ title:               'Leowoo Blog'
 tagline:             
 description:         '有朋自远方来'
 url:                 http://leowoo.me
-baseurl:             ''
+baseurl:             'http://leowoo.me'
 paginate:            5
 paginate_path: "page:num"
 
