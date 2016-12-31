@@ -9,9 +9,9 @@ permalink:           pretty
 # Setup
 title:               'Leowoo Blog'
 tagline:             
-description:         '有朋自远方来'
+description:         'What How When'
 url:                 http://leowoo.me
-baseurl:             'http://leowoo.me'
+baseurl:             'leowoo.me'
 paginate:            5
 paginate_path: "page:num"
 
