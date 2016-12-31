@@ -3,6 +3,4 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  [TODO] Hey There!
-</p>
+Liyuan Wu, Morgan Stanley, Shanghai.
