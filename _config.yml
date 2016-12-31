@@ -7,9 +7,9 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               
-tagline:             'Leowoo Blog'
-description:         'Hello'
+title:               'Leowoo Blog'
+tagline:             
+description:         '有朋自远方来'
 url:                 http://leowoo.me
 baseurl:             ''
 paginate:            5
@@ -19,7 +19,7 @@ paginate_path: "page:num"
 # About/contact
 author:
   name:              Liyuan Wu
-  url:               
+  url:               leowoo.me
   email:             wlywylm@gmail.com
 
 # Custom vars
