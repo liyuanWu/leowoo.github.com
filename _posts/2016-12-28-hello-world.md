@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: 箴言
 ---
 
-First Post Here
+沉着冷静， 开朗乐观
